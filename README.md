@@ -3,8 +3,12 @@ An ongoing & curated collection of awesome software best practices and technique
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 ##  `What is Terraform? `
+Terraform is an open-source Infrastructure as Code (IaC) tool developed by HashiCorp. It allows you to define, provision, and manage infrastructure resources across various cloud providers and on-premises environments using a high-level configuration language called HashiCorp Configuration Language (HCL).
 
-## Contents <!-- omit in toc -->
+> Terraform enables you to automate the provisioning and management of infrastructure resources through a consistent workflow that consists of three main stages: Write, Plan, Apply.
+
+
+## Table of Contents <!-- omit in toc -->
 
 - [Legend](#legend)
 - [Official Resources](#official-resources)
