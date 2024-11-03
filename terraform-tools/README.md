@@ -1,4 +1,4 @@
-# Awesome Terraform
+# Terraform
 A summarize of terraform usage and example
 
 ## Advantage of Terraform
